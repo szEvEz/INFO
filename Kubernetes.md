@@ -1,5 +1,7 @@
 # Kubernetes 101
 
+[Kubernetes Course Material](https://github.com/wardviaene/kubernetes-course)
+
 ## Setup the Kubernetes-Cluster
 
 * Using Docker for Windows (edge version)
