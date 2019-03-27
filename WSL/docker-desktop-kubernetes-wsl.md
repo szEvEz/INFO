@@ -2,7 +2,7 @@
 
 Enable Kubernetes
 
-![alt text](/images/docker-desktop-kubernetes.JPG)
+![alt text](images/docker-desktop-kubernetes.png)
 
 [Install kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/#install-kubectl-binary-using-native-package-management)
 
