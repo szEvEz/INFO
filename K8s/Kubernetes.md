@@ -8,6 +8,7 @@ complete -F __start_kubectl k
 ```
 
 [Kubernetes Course Material](https://github.com/wardviaene/kubernetes-course)
+
 [Kubectl Cheat Sheet](https://kubernetes.io/de/docs/reference/kubectl/cheatsheet/)
 
 ## Requests and Limits
